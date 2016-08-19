@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# BeerGardenMenu
 
 Interested in a digital menu that works with your BeerMenus.com membership:
 	Visit (https://www.beermenus.com/) get your profile info and call for a custom URL to grab your JSON data from.
@@ -12,7 +12,7 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
+	> git clone git@github.com:kanon4us/beer_garden-menu.git
 	> cd beer_garden_menu
 	> npm install
 	> npm start
